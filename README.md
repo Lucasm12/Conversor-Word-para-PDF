@@ -2,7 +2,7 @@
 
 Um aplicativo web moderno e eficiente para converter arquivos Word (.doc/.docx) em PDF. Desenvolvido com Node.js e tecnologias web modernas.
 
-![Preview do Aplicativo](preview.png)
+![Preview do Aplicativo](https://github.com/Lucasm12/Conversor-Word-para-PDF/blob/main/Screenshot_16.png)
 
 ## ✨ Funcionalidades
 
@@ -159,4 +159,4 @@ Se encontrar algum problema ou tiver sugestões:
 - Comunidade open source pelas bibliotecas utilizadas
 
 ---
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/Lucasm12)
+Desenvolvido por Lucas Marques
