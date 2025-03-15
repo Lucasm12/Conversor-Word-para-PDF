@@ -159,4 +159,4 @@ Se encontrar algum problema ou tiver sugestões:
 - Comunidade open source pelas bibliotecas utilizadas
 
 ---
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com ❤️ por [Seu Nome](https://github.com/Lucasm12)
